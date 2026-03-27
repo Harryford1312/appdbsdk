@@ -1,4 +1,4 @@
-**CLASS**
+=**CLASS**
 
 # `Appdb`
 
